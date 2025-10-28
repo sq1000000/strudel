@@ -1,7 +1,6 @@
 {
-  "breaks": [
-    "breaks/1.wav","breaks/2.wav","breaks/3.wav","breaks/4.wav",
-    "breaks/5.wav","breaks/6.wav","breaks/7.wav","breaks/8.wav"
-  ]
+
+  "_base": "https://raw.githubusercontent.com/sq1000000/strudel/main/",
+  "breaks": ["breaks/1.wav","breaks/2.wav","breaks/3.wav","breaks/4.wav", "breaks/5.wav","breaks/6.wav","breaks/7.wav","breaks/8.wav"]
 }
 
